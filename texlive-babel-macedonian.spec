@@ -1,6 +1,6 @@
 Name:		texlive-babel-macedonian
 Version:	39587
-Release:	1
+Release:	2
 Summary:	Babel module to support Macedonian Cyrillic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-macedonian
