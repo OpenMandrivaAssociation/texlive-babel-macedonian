@@ -3,7 +3,7 @@ Version:	39587
 Release:	2
 Summary:	Babel module to support Macedonian Cyrillic
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-macedonian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-macedonian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-macedonian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-macedonian.doc.r%{version}.tar.xz
